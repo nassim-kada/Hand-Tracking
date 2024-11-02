@@ -53,4 +53,4 @@ This project captures video from a webcam and uses the MediaPipe and OpenCV libr
 
 ## References
 - [OpenCV Documentation](https://docs.opencv.org/)
-- [MediaPipe Hands Documentation]([https://google.github.io/mediapipe/solutions/hands.html](https://mediapipe.readthedocs.io/en/latest/solutions/hands.html))
+- [MediaPipe Hands Documentation](https://mediapipe.readthedocs.io/en/latest/solutions/hands.html)

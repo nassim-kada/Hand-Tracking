@@ -15,8 +15,20 @@ This project captures video from a webcam and uses the MediaPipe and OpenCV libr
 ## Installation
 
 1. Clone this repository or download the code.
-
-2. Install the required libraries:
+2. Create environment
+   ```bash
+   python3 -m venv myenv
+   ```
+3. Activate the environment
+   Linux:
+   ```bash
+   source myenv/bin/activate 
+   ```
+      Windows:
+     ```bash
+   myenv\Scripts\activate
+   ```
+5. Install the required libraries:
    ```bash
    pip install opencv-python mediapipe
    ```
